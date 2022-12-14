@@ -23,3 +23,7 @@
 
 ##### [My Linkedin](https://www.linkedin.com/in/sibel-jahangirli)
 [sibeliusj05@gmail.com](mailto:sibeliusj05@gmail.com)
+
+<!-- View Count -->
+  
+![](https://komarev.com/ghpvc/?username=sibeljahangirli)
