@@ -12,8 +12,8 @@
 
 ## Fun facts
 - Co-President, Co-Founder of TDSS Programming Club
-- 2022 [NCWIT]([https://www.google.com/search?client=safari&rls=en&q=NCWIT&ie=UTF-8&oe=UTF-8](https://ncwit.org/)) Canadian Aspirations in Computing Ontario Affiliate Honourable Mention
-- 2023 [NCWIT]([https://www.google.com/search?client=safari&rls=en&q=NCWIT&ie=UTF-8&oe=UTF-8](https://ncwit.org/)) Aspirations in Computing Ontario Affiliate Award
+- 2022 [NCWIT](https://ncwit.org/) Canadian Aspirations in Computing Ontario Affiliate Honourable Mention
+- 2023 [NCWIT](https://ncwit.org/) Aspirations in Computing Ontario Affiliate Award
             
             
 ## What I'm up to...
