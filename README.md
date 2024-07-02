@@ -12,12 +12,14 @@
 
 ## Fun facts
 - Co-President, Co-Founder of TDSS Programming Club
-- 2022 [NCWIT](https://www.google.com/search?client=safari&rls=en&q=NCWIT&ie=UTF-8&oe=UTF-8) Canadian Aspirations in Computing Ontario Affiliate Honourable Mention 
+- 2022 [NCWIT](https://www.google.com/search?client=safari&rls=en&q=NCWIT&ie=UTF-8&oe=UTF-8) Canadian Aspirations in Computing Ontario Affiliate Honourable Mention
+- 2023 NCWIT Aspirations in Computing Ontario Affiliate Award
             
             
 ## What I'm up to...
 - Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [Hack the Valley 7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 - My-Ai is a web app where users can talk to Maiya, an Ai friend who will listen and console any of their worries.
+- Also worked on KEW https://devpost.com/software/kew-app-the-kewler-way-to-kew-queue 
 
 #### **📲 Reach me!**
 
