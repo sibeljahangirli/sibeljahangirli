@@ -22,7 +22,6 @@
 - Also worked on [KEW](https://devpost.com/software/kew-app-the-kewler-way-to-kew-queue), a project made for Hack the Valley 8(https://hackthevalley.io) @ UofT(https://www.utoronto.ca/)
 - Check out KEW in action --> https://kewparty.com/
 
-#### **📲 Reach me!**
+## **📲 Reach me!**
 
 ##### [My Linkedin](https://www.linkedin.com/in/sibel-jahangirli)
-[sibeliusj05@gmail.com](mailto:sibeliusj05@gmail.com)
